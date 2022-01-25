@@ -3,7 +3,7 @@ Dogs is an application developed in a complete ReactJS course from Origamid.
 
 ## About the project
 This project is part of the content of ReactJS course from [origamid](https://origamid.com).
-It is a social network for people who love dogs and love to share photos about their pets. Using this platform the user can create his own profile, publish photos and data about a dog, comment in other user's posts, see some stats and also a news feed.
+It is a social network for people who love dogs and love to share photos about their pets. Using this platform the user can create his own profile, publish photos and data about their dog, comment in other user's posts, see some stats and also a news feed. This project was made using React.JS for the front-end and Wordpress Rest API for back-end and database.
 
 ## Buit with
 React.js
