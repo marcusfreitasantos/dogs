@@ -1,5 +1,5 @@
 # Dogs Social Network
-Dogs is an application developed in a complete ReactJS course from @origamid.
+Dogs is an application developed in a complete ReactJS course from Origamid.
 
 ## About the project
 This project is part of the content of ReactJS course from [origamid](https://origamid.com).
