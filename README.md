@@ -9,10 +9,7 @@ It is a social network for people who love dogs and love to share photos about t
 I deploy this on firebase and you can see it working here [DOGS](https://dogs-social-network.web.app/).
 
 ## Buit with
-React.js
-Bootstrap
-JQuery
-Wordpress Rest API
+React.js | Bootstrap | JQuery | Wordpress Rest API
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
